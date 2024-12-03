@@ -40,4 +40,4 @@ CoverageLimit DECIMAL(10, 2)
 
 ## ER Model
 
-![ER Model](ERMODEL.png)
+![ER Model](ERModel.png)
